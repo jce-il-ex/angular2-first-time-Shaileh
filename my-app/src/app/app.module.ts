@@ -9,7 +9,7 @@ import { ListComponent } from './list/list.component';
 @NgModule({
   declarations: [
     AppComponent,
-    ListComponent
+    ListComponent//add after creating the list. that is the list of component in the app.
   ],
   imports: [
     BrowserModule,
